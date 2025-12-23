@@ -1,5 +1,5 @@
-OKU PUBLIC LICENSE 1.5.0 (OPLv1)
- tue, dec 23, 2025, 3:14pm
+OKU PUBLIC LICENSE 1.6.0 (OPLv1)
+ tue, dec 23, 2025, 3:34pm
 MODDIFICATION OF THIS LICENSE IS FORBIDDEN.
 
 permission for distributing this license has been granted. refer to https://github.com/JJDHI-3/oku-public-license for more information.
@@ -41,3 +41,26 @@ everyone is given permission to modify and distribute source code the copyright 
 
 modifications to software under the oku public license is encouraged, although, in order to claim the code as "derivative work" you must modify the code. modifications to software defines code that was modified or improved logic-wise, meaning any changes to how the code runs and/or processes. a substantial and functional modification from its original state grants the user to be able to claim the source code as "derivative work". another method for claiming "derivative work" is by contacting the copyright holder and asking for proper permission to create a "derivative work" claim. once a user's claim for derivative work has met the derivative work claim requirements by either two methods stated above, they are permitted to use the software however they please, as long as it follows the terms for the oku public license, and all its clauses.
 ----------
+
+/Appendix/
+----------
+1. SCOPE AND PERMISSIONS
+- General Rights: Users are explicitly permitted to modify and distribute source code covered by the Oku Public License (OPL).
+- Exclusions: These terms apply strictly to code licensed under the OPL. Portions of source code governed by other licenses are exempt from OPL terms.
+
+2. DEFINING "DERIVATIVE WORK"
+Modifications are encouraged. However, to officially claim the code as a "Derivative Work," specific criteria must be met. There are two methods to achieve this status:
+
+Method A: Substantial Modification
+- The user must modify or improve the code's logic.
+- Changes must affect how the code runs or processes data.
+- The modification must be "substantial and functional" compared to the original state.
+
+Method B: Copyright Holder Permission
+- The user may contact the original copyright holder and receive explicit permission to claim the code as a "Derivative Work."
+
+3. USAGE RIGHTS
+Once the requirements for a "Derivative Work" claim are met (via Method A or Method B), the user is permitted to use the software at their discretion, provided all usage remains in compliance with the clauses and terms of the Oku Public License.
+----------
+
+That's all there is to it!
