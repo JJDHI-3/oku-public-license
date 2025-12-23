@@ -1,5 +1,5 @@
-OKU PUBLIC LICENSE 1.4.0 (OPLv1)
- tue, dec 23, 2025, 2:50pm
+OKU PUBLIC LICENSE 1.5.0 (OPLv1)
+ tue, dec 23, 2025, 3:14pm
 MODDIFICATION OF THIS LICENSE IS FORBIDDEN.
 
 permission for distributing this license has been granted. refer to https://github.com/JJDHI-3/oku-public-license for more information.
@@ -19,6 +19,12 @@ if the OPL license doesn't suite the project's exact needs, the license may be u
 /Sublicensing clause/
 ----------
 Licensees are granted the right to sublicense derivative works under terms of their choosing, provided that the original OPL license text and copyright notice are preserved in the source code.
+
+When writing copyright notices, refer to this template:
+
+// Copyright (C) 23 Dec 2025 Moe Ghoul, President of Vice
+// Licensed under Oku Public license (OPL)
+
 ----------
 
 
