@@ -1,5 +1,5 @@
 OKU PUBLIC LICENSE 1.4.0 (OPLv1)
- tue, dec 23, 2025, 2:36pm
+ tue, dec 23, 2025, 2:50pm
 MODDIFICATION OF THIS LICENSE IS FORBIDDEN.
 
 permission for distributing this license has been granted. refer to https://github.com/JJDHI-3/oku-public-license for more information.
