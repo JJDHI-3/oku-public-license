@@ -1,2 +1,20 @@
 OKU PUBLIC LICENSE 1.0.0 (OPLv1.0.0)
-TOOD
+ tue, dec 24, 2025
+MODDIFICATION OF THIS LICENSE IS FORBIDDEN.
+
+permission for distributing this license has been granted. refer to https://github.com/JJDHI-3/oku-public-license for more information.
+
+
+/Preamble/
+----------
+The oku public license stands for freedom, in the definition brought by the user. this license allows users to base this code for building proprietary codebases, or to build open source ones.
+
+this license is built for keeping the copyright holder's efforts in building software to heart, and has measures to make sure everyone is happy.
+----------
+
+/TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION/
+----------
+everyone is given permission to modify and distribute source code the copyright holder has permitted to be under the oku public license. parts of source code may vary in licenses, in which the OPL will not apply to.
+
+modifications to software under the oku public license is encouraged, although, in order to have "ownership" of the code, you must modify the code. modifications to software defines code that was modified or improved logic-wise. a minimum of 5 lines modified from its original state grants "ownership" to the copy for modders. once a user is granted "ownership", they are permitted to use the software however they please, as long as it follows the terms for the oku public license.
+----------
