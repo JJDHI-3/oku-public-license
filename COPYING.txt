@@ -1,5 +1,5 @@
-OKU PUBLIC LICENSE 1.1.0 (OPLv1)
- tue, dec 24, 2025, 2:24pm
+OKU PUBLIC LICENSE 1.2.0 (OPLv1)
+ tue, dec 23, 2025, 2:31pm
 MODDIFICATION OF THIS LICENSE IS FORBIDDEN.
 
 permission for distributing this license has been granted. refer to https://github.com/JJDHI-3/oku-public-license for more information.
@@ -25,5 +25,5 @@ this license is built for keeping the copyright holder's efforts in building sof
 ----------
 everyone is given permission to modify and distribute source code the copyright holder has permitted to be under the oku public license. parts of source code may vary in licenses, in which the OPL will not apply to.
 
-modifications to software under the oku public license is encouraged, although, in order to claim the code as "derivative work" you must modify the code. modifications to software defines code that was modified or improved logic-wise, meaning any changes to how the code runs and/or processes. a minimum of 5 lines modified from its original state grants the user to be able to claim the source code as "derivative work". once a user's claim for derivative work has been accepted, either by the copyright holder or by the terms and condition s of the oku public license, they are permitted to use the software however they please, as long as it follows the terms for the oku public license.
+modifications to software under the oku public license is encouraged, although, in order to claim the code as "derivative work" you must modify the code. modifications to software defines code that was modified or improved logic-wise, meaning any changes to how the code runs and/or processes. a substantial and functional modification from its original state grants the user to be able to claim the source code as "derivative work". another method for claiming "derivative work" is by contacting the copyright holder and asking for proper permission to create a "derivative work" claim. once a user's claim for derivative work has been accepted by either two methods stated above, they are permitted to use the software however they please, as long as it follows the terms for the oku public license.
 ----------
