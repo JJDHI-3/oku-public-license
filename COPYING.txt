@@ -1,5 +1,5 @@
-OKU PUBLIC LICENSE 1.2.0 (OPLv1)
- tue, dec 23, 2025, 2:31pm
+OKU PUBLIC LICENSE 1.3.0 (OPLv1)
+ tue, dec 23, 2025, 2:36pm
 MODDIFICATION OF THIS LICENSE IS FORBIDDEN.
 
 permission for distributing this license has been granted. refer to https://github.com/JJDHI-3/oku-public-license for more information.
@@ -25,5 +25,5 @@ this license is built for keeping the copyright holder's efforts in building sof
 ----------
 everyone is given permission to modify and distribute source code the copyright holder has permitted to be under the oku public license. parts of source code may vary in licenses, in which the OPL will not apply to.
 
-modifications to software under the oku public license is encouraged, although, in order to claim the code as "derivative work" you must modify the code. modifications to software defines code that was modified or improved logic-wise, meaning any changes to how the code runs and/or processes. a substantial and functional modification from its original state grants the user to be able to claim the source code as "derivative work". another method for claiming "derivative work" is by contacting the copyright holder and asking for proper permission to create a "derivative work" claim. once a user's claim for derivative work has been accepted by either two methods stated above, they are permitted to use the software however they please, as long as it follows the terms for the oku public license.
+modifications to software under the oku public license is encouraged, although, in order to claim the code as "derivative work" you must modify the code. modifications to software defines code that was modified or improved logic-wise, meaning any changes to how the code runs and/or processes. a substantial and functional modification from its original state grants the user to be able to claim the source code as "derivative work". another method for claiming "derivative work" is by contacting the copyright holder and asking for proper permission to create a "derivative work" claim. once a user's claim for derivative work has met the derivative work claim requirements by either two methods stated above, they are permitted to use the software however they please, as long as it follows the terms for the oku public license, and all it's clauses.
 ----------
